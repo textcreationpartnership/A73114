@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The oration or substance of that which was deliuered before his Maiestie of Great Brittaine by the Emperours embassador, the high and excellent Lord, Count Swartesienbourge, at his day of audience, being the seuenth of Aprill, in the Parliament chamber. Translated out of the high Dutch, and now published by especiall command.</title>
+            <author>Schwarzenberg, Georg Ludwig, Graf von, 1586-1646.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1622</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73114</idno>
+            <idno type="STC">STC 21828.5</idno>
+            <idno type="STC">ESTC S124850</idno>
+            <idno type="EEBO-CITATION">99898670</idno>
+            <idno type="PROQUEST">99898670</idno>
+            <idno type="VID">152024</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2016:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The oration or substance of that which was deliuered before his Maiestie of Great Brittaine by the Emperours embassador, the high and excellent Lord, Count Swartesienbourge, at his day of audience, being the seuenth of Aprill, in the Parliament chamber. Translated out of the high Dutch, and now published by especiall command.</title>
+                  <author>Schwarzenberg, Georg Ludwig, Graf von, 1586-1646.</author>
+                  <author>Holy Roman Empire. Emperor (1619-1637 : Ferdinand II)</author>
+               </titleStmt>
+               <extent>[2], 12, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>[by B. Alsop] for Thomas Acrher [sic], and are to be sold in Popes head Pallace, ouer against the signe of the Horse-shooe,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>16. Aprill. 1622.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holy Roman Empire --  History --  Ferdinand II, 1619-1637 --  Early works to 1800.</term>
+               <term>Holy Roman Empire --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Holy Roman Empire --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152024:1"/>
+            <p>THE ORATION OR SVBSTANCE OF THAT WHICH WAS deliuered before his MAIESTIE <hi>of Great Brittaine, BY</hi> The Emperours Embaſſador, the high and ex<g ref="char:EOLhyphen"/>cellent Lord, Count <hi>Swarteſienbourge,</hi> at his day of of Audience, being the ſeuenth of Aprill, in the Parliament Chamber.</p>
+            <p>Tranſlated out of the high Dutch, and now pub<g ref="char:EOLhyphen"/>liſhed by eſpeciall command.</p>
+            <p>Imprinted at London for <hi>Thomas Acrher,</hi> and are to be ſold in Popes head Pallace, ouer againſt the ſigne of the Horſe-ſhooe. 16. Aprill. 1622.</p>
+            <pb facs="tcp:152024:2" rendition="simple:additions"/>
+            <pb facs="tcp:152024:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:152024:3"/>
+            <pb facs="tcp:152024:3"/>
+            <head>THE EMPEROVRS EMBASSADORS SPEECH AT HIS DAY OF AVDIENCE, the 7. of Aprill 1622. before his Maieſtie of <hi>Great Brittaine, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt high and Mighty Prince KING of Great <hi>Baittaine, France</hi> and <hi>Ireland,</hi> &amp;c.</p>
+            <p>
+               <hi>The Emperors Maieſtie, be<g ref="char:EOLhyphen"/>ing alſo King of Hungaria, Bo<g ref="char:EOLhyphen"/>hemia, and my moſt gratious Lord and Maſter:</hi> deſiring of all other things to ſalute your great and Kingly Maieſtie, hath thought it conuenient to manifeſt and propoſe his moſt entire loue, and brotherly Embaſſie vnto you, appointing me (though vnwor<g ref="char:EOLhyphen"/>thy) to deliuer that in words, and that publickely, which he priuately conceiueth and apprehendeth in his heart, befitting your Greatneſſe: Wiſhing withall both to your Maieſtie and your Royall houſe
+<pb n="2" facs="tcp:152024:4"/>ſuch bleſſings, as belong to mighty Prin<g ref="char:EOLhyphen"/>ces, eſpecially happineſſe in gouernment, health of body, tranquility of minde, loue of your people, and peace withall the World, euen as hee wiſheth to himſelfe, and his owne eſtabliſhment, peace being a thing more acceptable vnto him, then his owne proſperitie and greatneſſe: peace being a thing, which I haue in charge chiefly to inſiſt vpon, and requeſt your MAIESTIE to accord vnto.</p>
+            <p>Beſides, his <hi>Imperiall Maieſtie</hi> hath im<g ref="char:EOLhyphen"/>poſed this taske vpon mee, to preſent theſe letters of credite and iuſtification of of his true heart and meaning into your Royall hands, and withall the behalfe of his <hi>Imperiall Maieſtie</hi> to impart, and further make knowne vnto your MAIESTIE, that from his firſt ſtep into the Throne, and entrance into his Imperiall dignity, yea at all times ſince to this preſent houre, and as hee hopes to the conſummation of all houres, no one thing hath or can bee more acceptable vnto him, then the entertainement of loue, friendſhip, and amitie not onely with ſuch Princes,
+<pb n="3" facs="tcp:152024:4"/>to whom his predeceſſors haue made profeſſion formerly of peace and concord, in contracting of leagues, and combina<g ref="char:EOLhyphen"/>tion of couenants, but is alſo ardent in his deſire, and would faine expreſſe the ſame by his endeauours towards all other Chriſtian Princes and Potentates, though farther remote, as farre as the enlarging his loue, maintaining of friendſhip, and kee<g ref="char:EOLhyphen"/>ping correſpondency in all things befit<g ref="char:EOLhyphen"/>ting their honour, and his dignity. But e<g ref="char:EOLhyphen"/>ſpecially with your MAIESTIE, toward whom hee beareth ſuch an affectionate loue, and burning zeale, that hee would faine enter into conditions of euerlaſting peace, and hold an indiſſoluble contract of reall, ſincere, and moſt perfect amity, a bleſſing not onely commendable and pro<g ref="char:EOLhyphen"/>per for Princes to embrace, being indeed more comly then their ornament of State, but alſo moſt requiſite and neceſſary for their owne welfare, the good of their ſub<g ref="char:EOLhyphen"/>iects, the enriching their countries, the en<g ref="char:EOLhyphen"/>larging their reuenewes and manifeſtion of their profeſſion of Chriſtianity: to illu<g ref="char:EOLhyphen"/>ſtrate which with oratory, precept, cautio<g ref="char:cmbAbbrStroke">̄</g>,
+<pb n="4" facs="tcp:152024:5"/>or example is to great a worke at this time, and needieſſe to ſuch a Princely wiſedome and mature apprehenſion.</p>
+            <p>But that this great care and Princely de<g ref="char:EOLhyphen"/>ſire did euer appeare in his <hi>Imperiall Maie<g ref="char:EOLhyphen"/>ſtie,</hi> euen from his firſt entrance into the dignity which God beſtowed vpon him with many other of his owne hereditary kingdomes, and dominions to this preſent houre, howeuer ſome ſtrange winde hath thickned vp clowds of diſturbance, which threaten grearer and greater tempeſts. It hath pleaſed your MAIESTIE to ratefie and confirm, yea, you haue giuen him great aſſurance of ſincere loue, and affectionate friendſhip, and this hath not beene bare<g ref="char:EOLhyphen"/>ly performed by curſory letters, or miſſiue gratifications, but by magnificent Embaſ<g ref="char:EOLhyphen"/>ſadors, and ſumptuous expences, and that diuers times to aſſure his <hi>Imperiall Maieſtie</hi> you did not onely approue of his good in<g ref="char:EOLhyphen"/>tent, and purpoſes: but deſire the continu<g ref="char:EOLhyphen"/>ance and ratification of the ſame, ſtill en<g ref="char:EOLhyphen"/>deuouring by all meanes poſſible to re-eſtabliſh and reſtore the priſtinate con<g ref="char:EOLhyphen"/>tracts,
+<pb n="5" facs="tcp:152024:5"/>and tranquilitie of the chiefeſt Princes, and Potentates of Chriſtendome: and whereas now ſome vntoward hand had attempted to be-ſpot the beautifull face of Europe with troubles, or made wrinkles in the ſame with fearefull tur<g ref="char:EOLhyphen"/>moyles, your MAIESTIE, and none but your ſelfe, hath endeuoured to make it ſmooth againe, that it may ſhew her former hanſomnes and vnmatchable glo<g ref="char:EOLhyphen"/>ry: yea as farre as was poſſible' you haue appeared like a riſing Sunne, to diſpell and diſſipate theſe cloudy vapours and vnto<g ref="char:EOLhyphen"/>ward miſts of diſſention, that in ſteed of tumultuous enmity, and fearefull cla<g ref="char:EOLhyphen"/>mours of warre, true contracted friend<g ref="char:EOLhyphen"/>ſhip might ſtep in, and the ſweete con<g ref="char:EOLhyphen"/>cord of peace ſound the comfortable <hi>Di<g ref="char:EOLhyphen"/>apaſon</hi> of good Muſicke, to pleaſe the Eares of all good Princes, and cheere the hearts of true and honeſt people, wherein as you haue out-ſtripped other Kinges in the race to high honour, and great renowne, ſo that your Royall name for extraordinary wiſdome, learning,
+<pb n="6" facs="tcp:152024:6"/>and moderation of paſſions, hath an extra<g ref="char:EOLhyphen"/>ordinary paſſage throughout the world for praiſe and admiration: ſo doth his <hi>Im<g ref="char:EOLhyphen"/>periall Maieſty</hi> pray, and requeſt you to con<g ref="char:EOLhyphen"/>tinue the ſame motiues, and ſtil and ſtill to ſet forward the ſame practiſes, that the Princes of Europe may not onely partici<g ref="char:EOLhyphen"/>pate with the benefit of peace by your meanes: but you your ſelfe aſſure vnto your Princely heart the preſent fruition of all applauſes, and the future enioying of immortall fame, and glory.</p>
+            <p>To the end therefore, that your MAIES<g ref="char:EOLhyphen"/>TIE may euidently vnderſtand, and iudi<g ref="char:EOLhyphen"/>ciouſly apprehend, how much, and how highly his <hi>Imperiall Maieſtie</hi> doth eſtimate, and make account of your MAIESTIES loue and affection, and with what embra<g ref="char:EOLhyphen"/>ces and amplexure hee would entertaine your friendſhip, yea endeauour withal ear<g ref="char:EOLhyphen"/>neſt deſire to gratefie the ſame, as farre as honourable correſpondency, and recipro<g ref="char:EOLhyphen"/>call requitall may extend, he hath thought it conuenient without protraction or am<g ref="char:EOLhyphen"/>biguous diſputing the matter to ſend mee as his Embaſſadour, to acquaint you with
+<pb n="7" facs="tcp:152024:6"/>his gratious intent, and aſſure you, that he doth no leſſe affect the common good of Chriſtendome, then your Princely ſelfe, or any king in Europe: but eſpecially the welfare and proſperitie of your MAIES<g ref="char:EOLhyphen"/>TIES houſe, though there hath bin cauſe of diſpleaſure and diſcontent, yea it is part of his care, and ſtudy to labour out the meanes, and giue way vnto all occaſions, that may raiſe vp againe the decayed and bruiſed peace, which hath bin ſo vnfortu<g ref="char:EOLhyphen"/>nately paſhed downe to the ground, and as I may ſay trampled vnder feet, and no queſtion long ſince ſome gentle hand had lifted her to better firmneſſe, or brought her within the ſtrength of ſupportation, if as vngentle armes had not gone by force, and violent courſes to worke their owne ends, and affects their deſignes, wherein they haue without queſtion ſtarted out of the ſmooth and euen path of your great wiſedome, and iudicious Councell, ſaue<g ref="char:EOLhyphen"/>ring all princelines, charity, loue and religi<g ref="char:EOLhyphen"/>ous care to run into the by-wayes of their owne wilfulneſſe, and ambitious proiects, ſo that whereas you like a faire mouing
+<pb n="8" facs="tcp:152024:7"/>planet haue ſtill kept one acceptable courſe toward peace and tranquillity: they like turbulent Meteors and prodi<g ref="char:EOLhyphen"/>gious exhalations haue violently runne forward to the vexing of themſelues, and diſturbing of others, whereby their vn<g ref="char:EOLhyphen"/>iuſtifiable actions may truely, and ſuffi<g ref="char:EOLhyphen"/>ciently be ſayd to haue bin the cauſe of ſo much blood-ſhedding, and fearefull de<g ref="char:EOLhyphen"/>ſtruction both of countries and people: ſo that his <hi>Imperiall Maieſtie</hi> is willing to ac<g ref="char:EOLhyphen"/>knowledge, and withall the world to confeſſe that theſe kinde of violent procee<g ref="char:EOLhyphen"/>dings, or if you will, vnkinde courſes, haue beene greatly diſpleaſing vnto your MA<g ref="char:EOLhyphen"/>IESTIE, and ſo farre diſtaſting, that from time to time out of mature iudgment and regal piety, you haue endeuored to di<g ref="char:EOLhyphen"/>uert the miſchiefe, and turne the ſtreame as it were of theſe vnkinde ouerflowings: nor hath this beene barely done by running meſſengers, miſſiue letters, polliticke en<g ref="char:EOLhyphen"/>treaties, charitable wiſhes, or ſuch like ſhowes of goodneſſe, but by moſt honou<g ref="char:EOLhyphen"/>rable Embaſſadors, ſincere affection, extra<g ref="char:EOLhyphen"/>ordinary charge, and vnmatchable Prince<g ref="char:EOLhyphen"/>lineſſe,
+<pb n="9" facs="tcp:152024:7"/>and all as well for the generall good of Chriſtendome, as the particular re-eſta<g ref="char:EOLhyphen"/>bliſhing the peace of Germany, which hi<g ref="char:EOLhyphen"/>therto hath beene torne a peeces by the cruell hands of reuolters, and vnkinde ſnatches of tumultuous diſſention, and and therefore is not onely to be wiſhed to be recouered, but endeuoured by all poſſi<g ref="char:EOLhyphen"/>ble meanes to be brought to true and per<g ref="char:EOLhyphen"/>fect reformation.</p>
+            <p>And wheras I muſt confeſſe, his <hi>Imperial Maieſty</hi> hath vnwillingly taken arms, &amp; rai<g ref="char:EOLhyphen"/>ſed his forces for his owne defence, and maintaining his honour and renowne, a thing wherein far inferior Princes would haue bin ſtartled, and could performe no leſſe: he will as willingly be enduced to lay them downe againe, and be as ſpeedily in<g ref="char:EOLhyphen"/>treated to deſiſt from hoſtilitie, and violent proſecutions, if others without reaſon, &amp; true or iuſt intimation do not ſhew them<g ref="char:EOLhyphen"/>ſelues peruerſe and obſtinate, to which hee is queſtionleſſe the more tractable, be<g ref="char:EOLhyphen"/>cauſe your MAIESTIE can ſo nobly act his part; not onely in defending the dig<g ref="char:EOLhyphen"/>nitie of Kings, and the prerogatiues of
+<pb n="10" facs="tcp:152024:8"/>Monarchies, but in expropriating the ti<g ref="char:EOLhyphen"/>merous proceedings of ſubiects, or any o<g ref="char:EOLhyphen"/>ther that ſhall take vp tumultuous armes to diſturbe the peace of prouinces. For al<g ref="char:EOLhyphen"/>though at firſt it may carry a ſhow of glo<g ref="char:EOLhyphen"/>rious enterpriſes and heroicke actions: yet when the miſerable effects of the beſt warre are conſidered, nothing will proue ſo fearefull and lamentable, nor is their a<g ref="char:EOLhyphen"/>ny thing that I know of in the world, that drawes on repentance, and compunc<g ref="char:EOLhyphen"/>tion of ſoule ſo ſodainly, as vniuſtifiable hoſtility, and vnconſcionably practiſes.</p>
+            <p>I muſt and will forbeare at this time to importune your MAIESTIE to this at<g ref="char:EOLhyphen"/>tonement by vnſeaſonable repititions of precedent occurrences, raiſing the cauſes of vnkindneſſe out of the circle of other mens diſtempred humours, or turbulency of ſpirit, it is ſufficient that all the world may know; how contrary theſe procee<g ref="char:EOLhyphen"/>dings haue beene to your wholeſome ad<g ref="char:EOLhyphen"/>uice, iudicious Councell, and pious incli<g ref="char:EOLhyphen"/>nation, ſo many wayes and times publi<g ref="char:EOLhyphen"/>ſhed, and made knowne to all Chriſten<g ref="char:EOLhyphen"/>dome: &amp; as for his Imperial Maieſty they
+<pb n="11" facs="tcp:152024:8"/>haue croſſed his intents, oppoſed his of<g ref="char:EOLhyphen"/>fers, and made him ſad againe to thinke there ſhould be ſuch occaſions of diſplea<g ref="char:EOLhyphen"/>ſure. I will therefore onely inſiſt vpon this that your MAIESTIE may be aſſured and confident, that his <hi>Imperiall Maieſtie</hi> hath an abſolute worthy intent toward you, and reſolueth ſincerely, really, royally, and without cunning or fraud, to treat with you about theſe affaires, and ſo compaſſe buſineſſe, that all tractates betweene you may be firmely ratified, and faithfully performed, wherin he doth but onely giue away vnto that, which your MAIESTIE formerly deſired, and in all Princelineſſe wiſhed, as is apparant by your ſeuerall let<g ref="char:EOLhyphen"/>ters, and magnificent Embaſſie, and becauſe it pleaſed his Maieſtie of <hi>Spaine</hi> to appre<g ref="char:EOLhyphen"/>hend the ſame, and manifeſt his earneſt willingneſſe to this pacification. From his <hi>Imperiall Maieſtie</hi> I haue a charge to giue you notice or as much, which when it pleaſeth your MAIESTIE to vouchſafe the hearing, I ſhall at large impart vnto you, &amp; make knowne with what readineſſe both their Maieſties will hearken to your pro<g ref="char:EOLhyphen"/>poſitions,
+<pb n="12" facs="tcp:152024:9"/>and as you ſhall thinke conue<g ref="char:EOLhyphen"/>nient tractate about the ſame: nor make they any queſtion, but that the worke be<g ref="char:EOLhyphen"/>ing generally ſo good and charitable, and particularly ſo effectuall and profitable to all the Prouinces of Europe, will come to as happy an end, or period conſidering no<g ref="char:EOLhyphen"/>thing is ment but truth, ſincerity, and the hope of indiſſoluble amity whereby God ſhall be glorified, all your Maieſties hono<g ref="char:EOLhyphen"/>red, the countries bleſſed, and people re<g ref="char:EOLhyphen"/>comforted, whoſe hearts are now ſadded, as much with the feare of future miſery, as the endurance of preſent clamity.</p>
+            <p>Thus humbly beſeeching your Maieſtie to beleeue, that his <hi>Imperiall Maieſtie</hi> will endeauour by all poſſible meanes to giue you aſſurance of his loue and reſpect to<g ref="char:EOLhyphen"/>ward you. I am the bolder to warrant the ſincerity of his intent, and that there is no<g ref="char:EOLhyphen"/>thing propoſed but truth, faith, and good meaning. In which reſolution he wiſheth vnto your Maieſtie the happineſſe of your Kingly eſtate, and the proſperity of a long, and bleſſed raigne, with the encreaſe of ma<g ref="char:EOLhyphen"/>ny yeeres, health, honor, contentment, and felicitie.</p>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:152024:9"/>
+            <pb facs="tcp:152024:10" rendition="simple:additions"/>
+            <pb facs="tcp:152024:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
